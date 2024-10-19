@@ -1,8 +1,9 @@
+// 02582581111111111111
 public class Rectangle {
     double length;
     double width;
 
-    // Constructor.02582581111111111111
+    // Constructor.
     public Rectangle(double length, double width) {
         this.length = length;
         this.width = width;
